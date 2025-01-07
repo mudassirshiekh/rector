@@ -13,7 +13,7 @@ Rector now supports upgrades from PHP 5.3 to 8.4 and major open-source projects 
 Use Rector to handle **instant upgrades** for you.
 
 ### 2. Automated Refactoring
-
+## By Mudassir Alam
 Do you have code quality you need, but struggle to keep it with new developers in your team? Do you want to see smart code-reviews even when every senior developers sleeps?
 
 Add Rector to your CI and let it **continuously refactor your code** and keep the code quality high.
